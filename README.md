@@ -50,7 +50,7 @@ Utilize os prompts acima junto com as ferramentas sugeridas para gerar o materia
 
 ## Licença
 
-This work is licensed under CC BY-NC 4.0. To view a copy of this license, visit [CreativeCommons](https://creativecommons.org/licenses/by-nc/4.0/).
+Rastros Digitais: Navegando pelos Desafios da Gestão de Ativos de TI © 2024 by Carolina Queiroz de Abreu Silva is licensed under CC BY-NC 4.0. To view a copy of this license, visit [CreativeCommons](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ## Conecte-se comigo
 
