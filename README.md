@@ -14,6 +14,8 @@ seguem abaixo.
 
 Este ebook aborda os principais desafios e estratégias para garantir a segurança dos ativos de TI na era dos dados.
 
+<a href="https://github.com/CarolinaQueiroz/ebook-ITAM-data-science/blob/main/output/Ebook_Rastros_Digitais_CQueiroz.pdf" title="View PDF now"> Clique aqui para ler</a>
+
 ## Ferramentas utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
